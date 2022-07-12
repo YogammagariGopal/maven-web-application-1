@@ -17,11 +17,11 @@
 	</organization>
 
 	<properties>
-		<jdk.version>1.8</jdk.version>
+		<jdk.version>1.8</jdk.version>http://13.233.216.196:9980
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.233.216.196:9980/</sonar.host.url>
+		<sonar.host.url>http://13.233.216.196:9980</sonar.host.url>
                 <sonar.login>c982408c9c78841d2972877fbd187db86487e9d5</sonar.login>
 		
              
