@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Gopal Technologies - Poll SCM Demo  .....</h1>
+<h1 align="center">Welcome to Gopal Technologies - GitHub Webhook Demo  .....</h1>
 <h1 align="center"> Welcome to Gopal Software Solutions.......We have a DevOps Master Program demo on August 25th at 7 PM IST for new batch. , This is a weekdays batch - 7.30 AM to 9.10 AM IST . GSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
