@@ -20,8 +20,8 @@
 		Gopal Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-9010699931,
+		gopalyogammagari@gmail.com
 		<br>
 		<a href="mailto:gopalyogammagari@gmail.com">Mail to Gopal Technologies</a>
 	</span>
